@@ -3,5 +3,4 @@ patreon: acfoltzer
 ko_fi: acfoltzer
 liberapay: acfoltzer
 issuehunt: acfoltzer
-custom: https://www.acfoltzer.net/
-custom: https://www.acfoltzer.net/another_url
+custom: ["https://www.acfoltzer.net/", "https://www.acfoltzer.net/another_url"]
